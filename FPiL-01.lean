@@ -1,3 +1,4 @@
+-- initial read through the first few sections of https://lean-lang.org/functional_programming_in_lean/
 #eval 1+2 * 5
 
 #eval String.append "Hello, " "Lean"

@@ -3,3 +3,4 @@
 
 
 #eval ("red admiral".dropEndWhile Char.isAlpha).copy
+-- I didn't do much here, but this was my second read.
